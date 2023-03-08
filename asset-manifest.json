@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44f8b8b5.css",
+    "main.js": "/static/js/main.871ed240.js",
+    "static/js/787.744c1c47.chunk.js": "/static/js/787.744c1c47.chunk.js",
+    "static/media/islv0.1.0.png": "/static/media/islv0.1.0.3736b8d3d68aafdf11cf.png",
+    "static/media/android.svg": "/static/media/android.8674a49fc2d4228bb43924b79d0dedce.svg",
+    "index.html": "/index.html",
+    "main.44f8b8b5.css.map": "/static/css/main.44f8b8b5.css.map",
+    "main.871ed240.js.map": "/static/js/main.871ed240.js.map",
+    "787.744c1c47.chunk.js.map": "/static/js/787.744c1c47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.871ed240.js"
+  ]
+}
